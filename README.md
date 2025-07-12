@@ -35,5 +35,5 @@
   Machine learning and artificial intelligence course.
 
 ## Contact
- Created by [@ranju1729  and @pawankumar191219] - feel free to contact me!
+ Created by [@pawankumar191219](https://github.com/pawankumar191219) - feel free to contact me!
 
